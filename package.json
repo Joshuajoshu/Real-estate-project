@@ -7,7 +7,7 @@
   "homepage": "https://themewagon.github.io/NextJS-Tailwind-Course-Landing-Page",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next export",
     "start": "next start",
     "lint": "next lint",
     "export": "next export",
